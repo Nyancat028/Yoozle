@@ -1,2 +1,2 @@
 # Yoozle
-A useless homepage that redirects your search into bing.
+A useless homepage inspired by emergency page in yuzusoft games that actually redirects your search into bing.
